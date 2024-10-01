@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @raifantichelli
 - 🌱 I’m currently learning django
+- 🎓 Cursando Agrocomputação no Instituto Federal de Rondônia.
 
 
 
